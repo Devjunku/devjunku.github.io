@@ -14,7 +14,7 @@ date: 2021-07-06
 last_modified_at: 2021-07-06
 ---
 
-# My First Post
+# My First Posting
 
 ## git blog 만들기
 
