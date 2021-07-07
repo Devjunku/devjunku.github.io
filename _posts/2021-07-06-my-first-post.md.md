@@ -20,7 +20,7 @@ last_modified_at: 2021-07-06
 
 평소에 기술 블로그를 하나 만들어야겠다고 생각했다. 티스토리도 있고, 깃블로그도 있고 둘 중 무엇이 더 좋을까 생각했는 데, 내 생각에는 그냥 깃으로 하는게 더 좋을거 같은 느낌이 들었다. 그 이유는 시작을 깃으로 해서 깃이 더 편한 것 같은 느낌도 들었고, 티스토리는 모르기 때문에 깃블로그를 선택했다. 원래 올해(2021) 3월, 4월? 잘 기억은 안나지만 이때 만들려고 했다. 근데 뭐 하는 방법을 알아야 하지라는 생각이 가득했고, 일단.. 싸피(SSAFY) 스케줄이 빡세서 교육 따라가기가 급급했다. 그래서 좀 미뤘었고, 1학기가 끝난 2학기 시작 직전인 지금 이제서야 깃 블로그를 만든다. 만드는 방법은 모두 아래 링크에서 참고했다.
 
-https://oilmlio.com/blog/How-to-Create-a-GitHub-Blog/
+[https://oilmlio.com/blog/How-to-Create-a-GitHub-Blog/](https://oilmlio.com/blog/How-to-Create-a-GitHub-Blog/)
 
 예전에 비해서 실력이 늘었는지? 아니면 이해력이 높아졌는지? 잘 모르겠지만, 뭔가 전에 비해서 이해하기가 간편했다. 그래서 쉽게 만들었다. 중요한건 닉네임에 '-'(하이푼)이 있으면 안만들어진다. 그래서 수정해야했다.
 
@@ -41,7 +41,7 @@ https://oilmlio.com/blog/How-to-Create-a-GitHub-Blog/
 
 5. 그리고 해당 저장소를 내 컴퓨터로 클론하자. 여기서 만약에 닉네임에 `-` 이 있으면 애초에 블로그도 안만들어지니까. 닉네임부터 수정하자. 그리고 클론 뜬 폴더 안에 _posts 폴더를 만들자. 여기 안에 있어야 포스팅할 수 있다. 그리고 올릴 파일을 마크다운 형식으로 작성하면된다. 나는 아래의 포스팅 글을 참고해서 본 문서를 _posts했다.
 
-https://ansohxxn.github.io/blog/posting/
+[https://ansohxxn.github.io/blog/posting/](https://ansohxxn.github.io/blog/posting/)
 
 그렇다 생각보다 간단했다.
 
