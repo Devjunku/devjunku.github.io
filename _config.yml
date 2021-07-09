@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Park Jun Kyu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm Devjunku wants to be a full-stack developer and data analysis."
+  bio              : "I'm Devjunku wants to be a full-stack developer and data analyst."
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "junku8782#gmail.com"
+      url: "junku8782@gmail.com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
